@@ -1,0 +1,16 @@
+Fabric==1.8.3
+Flask==0.10.1
+Flask-SQLAlchemy==1.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+Pygments==1.6
+SQLAlchemy==0.9.4
+Sphinx==1.2.2
+Werkzeug==0.9.5
+docutils==0.11
+ecdsa==0.11
+itsdangerous==0.24
+paramiko==1.12.4
+pycrypto==2.6.1
+pysqlite==2.6.3
+wsgiref==0.1.2

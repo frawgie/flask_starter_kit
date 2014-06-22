@@ -1,0 +1,29 @@
+/* Margins */
+
+.m-t-xs {
+    margin-top: 15px;
+}
+
+.m-t-s {
+    margin-top: 30px;
+}
+
+.m-t-m {
+    margin-top: 60px;
+}
+
+.m-t-b {
+    margin-top: 120px;
+}
+
+.m-b-s {
+    margin-bottom: 30px;
+}
+
+.m-b-m {
+    margin-bottom: 60px;
+}
+
+.m-b-b {
+    margin-bottom: 120px;
+}
