@@ -20,19 +20,18 @@ app.config.from_envvar('YOURAPP_SETTINGS')
 
 ### templates/base.html
 
-
-<title>*YourApp*</title>
-
-
-<a class="navbar-brand" href="#">*YourApp*</a>
+    <title>*YourApp*</title>
 
 
-<div class="mastfoot">
-  <div class="inner">
-    <p>© 2014 *YourApp*. All rights reserved.</p>
-  </div>
-</div>
+    <a class="navbar-brand" href="#">*YourApp*</a>
+
+
+    <div class="mastfoot">
+        <div class="inner">
+        <p>© 2014 *YourApp*. All rights reserved.</p>
+    </div>
+    </div>
 
 
 ### templates/index.html
-<h1 class="cover-heading">*YourApp*</h1>
+    <h1 class="cover-heading">*YourApp*</h1>
